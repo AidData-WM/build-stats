@@ -2,26 +2,48 @@
   "GeocodedResearchReleases": {
     "Level1": [
       {
-        "donors": 110, 
-        "start_year": "1997", 
-        "geocoded_commitments": 5732815865, 
-        "locations": 20952, 
-        "scores": {
-          "date_coverage": 82.13, 
-          "geographic_coverage": 54.41, 
-          "geographic_precision": 99.09, 
-          "compare_financials": 0.0, 
-          "sector_detail": 89.92
-        }, 
-        "dataset_title": "NepalAIMS", 
-        "total_projects": 873, 
+        "donors": 93, 
+        "start_year": "2001", 
         "runs": 1, 
+        "total_projects": 1580, 
         "end_year": "2014", 
-        "geocoded_projects": 475, 
-        "last_run": "2016-03-30T17:15:18.925396", 
-        "geocoded_disbursements": 3187409375, 
-        "total_disbursements": 4287879756, 
-        "total_commitments": 8923101534
+        "geocoded_commitments": 14444479755.589994, 
+        "geocoded_projects": 1561, 
+        "locations": 7168, 
+        "last_run": "2016-03-30T17:13:14.488516", 
+        "geocoded_disbursements": 1060224656.6800002, 
+        "total_disbursements": 1065468495.1700002, 
+        "total_commitments": 14494519368.079992, 
+        "scores": {
+          "date_coverage": 100.0, 
+          "geographic_coverage": 98.8, 
+          "geographic_precision": 28.91, 
+          "compare_financials": 0.0, 
+          "sector_detail": 95.7
+        }, 
+        "dataset_title": "AfghanistanAIMS"
+      }, 
+      {
+        "donors": 79, 
+        "start_year": "2000", 
+        "geocoded_commitments": 6736527922.469997, 
+        "locations": 1124, 
+        "scores": {
+          "date_coverage": 42.73, 
+          "geographic_coverage": 25.66, 
+          "geographic_precision": 34.7, 
+          "compare_financials": 0.0, 
+          "sector_detail": 100.0
+        }, 
+        "dataset_title": "SenegalAIMS", 
+        "total_projects": 1582, 
+        "runs": 1, 
+        "end_year": "2012", 
+        "geocoded_projects": 406, 
+        "last_run": "2016-03-30T17:15:25.953285", 
+        "geocoded_disbursements": 3351062986.7000017, 
+        "total_disbursements": 7338171507.3200035, 
+        "total_commitments": 17524929936.009995
       }
     ]
   }
