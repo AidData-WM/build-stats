@@ -2,26 +2,26 @@
   "GeocodedResearchReleases": {
     "Level1": [
       {
-        "donors": 135, 
-        "start_year": "1988", 
-        "geocoded_commitments": 5467536555, 
-        "locations": 7562, 
+        "donors": 56, 
+        "start_year": "1978", 
+        "geocoded_commitments": 10748426766.376005, 
+        "locations": 2426, 
         "scores": {
-          "date_coverage": 58.0, 
-          "geographic_coverage": 97.89, 
-          "geographic_precision": 7.48, 
-          "compare_financials": 0.0, 
-          "sector_detail": 94.21
+          "date_coverage": 84.26, 
+          "geographic_coverage": 33.06, 
+          "geographic_precision": 88.13, 
+          "compare_financials": 1.51, 
+          "sector_detail": 100.0
         }, 
-        "dataset_title": "BurundiAIMS", 
-        "total_projects": 950, 
+        "dataset_title": "UgandaAIMS", 
+        "total_projects": 1709, 
         "runs": 1, 
         "end_year": "2014", 
-        "geocoded_projects": 930, 
-        "last_run": "2016-03-30T17:13:30.773602", 
-        "geocoded_disbursements": 3709829911, 
-        "total_disbursements": 3817032979, 
-        "total_commitments": 5788361235
+        "geocoded_projects": 565, 
+        "last_run": "2016-03-30T17:13:44.554273", 
+        "geocoded_disbursements": 6884083011.997999, 
+        "total_disbursements": 15997709293.961966, 
+        "total_commitments": 26305209802.29197
       }
     ]
   }
