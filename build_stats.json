@@ -6,13 +6,7 @@
         "start_year": "1988", 
         "total_projects": 950, 
         "end_year": "2014", 
-        "scores": {
-          "date_coverage": 58.0, 
-          "geographic_coverage": 97.89, 
-          "geographic_precision": 7.48, 
-          "compare_financials": 0.01, 
-          "sector_detail": 94.21
-        }, 
+        "geocoded_commitments": 5818879419, 
         "geocoded_projects": 930, 
         "runs": 2, 
         "last_run": "2016-04-19T14:32:03.738645", 
@@ -20,7 +14,13 @@
         "geocoded_disbursements": 3977779727, 
         "total_disbursements": 4088341432, 
         "total_commitments": 6143742020, 
-        "geocoded_commitments": 5818879419, 
+        "scores": {
+          "date_coverage": 58.0, 
+          "geographic_coverage": 97.89, 
+          "geographic_precision": 7.48, 
+          "compare_financials": 0.01, 
+          "sector_detail": 94.21
+        }, 
         "dataset_title": "BurundiAIMS"
       }, 
       {
@@ -28,14 +28,6 @@
         "start_year": "1997", 
         "total_projects": 873, 
         "end_year": "2014", 
-        "geocoded_commitments": 5941663576, 
-        "geocoded_projects": 475, 
-        "runs": 1, 
-        "last_run": "2016-04-19T14:27:52.743803", 
-        "locations": 20952, 
-        "geocoded_disbursements": 3221565559, 
-        "total_disbursements": 4333204114, 
-        "total_commitments": 9211134466, 
         "scores": {
           "date_coverage": 82.13, 
           "geographic_coverage": 54.41, 
@@ -43,6 +35,14 @@
           "compare_financials": 0.0, 
           "sector_detail": 89.92
         }, 
+        "geocoded_projects": 475, 
+        "runs": 1, 
+        "last_run": "2016-04-19T14:27:52.743803", 
+        "locations": 20952, 
+        "geocoded_disbursements": 3221565559, 
+        "total_disbursements": 4333204114, 
+        "total_commitments": 9211134466, 
+        "geocoded_commitments": 5941663576, 
         "dataset_title": "NepalAIMS"
       }, 
       {
@@ -50,6 +50,14 @@
         "start_year": "2002", 
         "total_projects": 1338, 
         "end_year": "2014", 
+        "geocoded_commitments": 10364027390, 
+        "geocoded_projects": 1324, 
+        "runs": 2, 
+        "last_run": "2016-04-19T14:41:45.127582", 
+        "locations": 3624, 
+        "geocoded_disbursements": 4033465514, 
+        "total_disbursements": 4052509637, 
+        "total_commitments": 10392805606, 
         "scores": {
           "date_coverage": 100.0, 
           "geographic_coverage": 98.95, 
@@ -57,14 +65,6 @@
           "compare_financials": 11.58, 
           "sector_detail": 89.76
         }, 
-        "geocoded_projects": 1324, 
-        "runs": 1, 
-        "last_run": "2016-04-19T14:27:55.542228", 
-        "locations": 3624, 
-        "geocoded_disbursements": 4033465514, 
-        "total_disbursements": 4052509637, 
-        "total_commitments": 10392805606, 
-        "geocoded_commitments": 10364027390, 
         "dataset_title": "IraqAIMS"
       }, 
       {
@@ -72,14 +72,6 @@
         "start_year": "1978", 
         "total_projects": 1709, 
         "end_year": "2014", 
-        "geocoded_commitments": 12081509279.897673, 
-        "geocoded_projects": 565, 
-        "runs": 1, 
-        "last_run": "2016-04-19T14:28:02.046618", 
-        "locations": 2426, 
-        "geocoded_disbursements": 7691149919.817449, 
-        "total_disbursements": 18416134026.901207, 
-        "total_commitments": 30594192337.32943, 
         "scores": {
           "date_coverage": 84.26, 
           "geographic_coverage": 33.06, 
@@ -87,6 +79,14 @@
           "compare_financials": 1.76, 
           "sector_detail": 100.0
         }, 
+        "geocoded_projects": 565, 
+        "runs": 1, 
+        "last_run": "2016-04-19T14:28:02.046618", 
+        "locations": 2426, 
+        "geocoded_disbursements": 7691149919.817449, 
+        "total_disbursements": 18416134026.901207, 
+        "total_commitments": 30594192337.32943, 
+        "geocoded_commitments": 12081509279.897673, 
         "dataset_title": "UgandaAIMS"
       }, 
       {
@@ -94,13 +94,7 @@
         "start_year": "2000", 
         "total_projects": 301, 
         "end_year": "2015", 
-        "scores": {
-          "date_coverage": 89.37, 
-          "geographic_coverage": 95.68, 
-          "geographic_precision": 91.95, 
-          "compare_financials": 0.0, 
-          "sector_detail": 76.08
-        }, 
+        "geocoded_commitments": 18924503171.05875, 
         "geocoded_projects": 288, 
         "runs": 1, 
         "last_run": "2016-04-19T14:29:16.717891", 
@@ -108,7 +102,13 @@
         "geocoded_disbursements": 0, 
         "total_disbursements": 0, 
         "total_commitments": 19209721553.434868, 
-        "geocoded_commitments": 18924503171.05875, 
+        "scores": {
+          "date_coverage": 89.37, 
+          "geographic_coverage": 95.68, 
+          "geographic_precision": 91.95, 
+          "compare_financials": 0.0, 
+          "sector_detail": 76.08
+        }, 
         "dataset_title": "BangladeshSelectDonors"
       }, 
       {
@@ -116,14 +116,6 @@
         "start_year": "1994", 
         "total_projects": 693, 
         "end_year": "2013", 
-        "geocoded_commitments": 827309604.7698044, 
-        "geocoded_projects": 665, 
-        "runs": 1, 
-        "last_run": "2016-04-19T14:29:42.114642", 
-        "locations": 2981, 
-        "geocoded_disbursements": 0, 
-        "total_disbursements": 0, 
-        "total_commitments": 849351099.7847831, 
         "scores": {
           "date_coverage": 100.0, 
           "geographic_coverage": 95.96, 
@@ -131,6 +123,14 @@
           "compare_financials": 1.1, 
           "sector_detail": 95.96
         }, 
+        "geocoded_projects": 665, 
+        "runs": 1, 
+        "last_run": "2016-04-19T14:29:42.114642", 
+        "locations": 2981, 
+        "geocoded_disbursements": 0, 
+        "total_disbursements": 0, 
+        "total_commitments": 849351099.7847831, 
+        "geocoded_commitments": 827309604.7698044, 
         "dataset_title": "ColombiaAIMS"
       }, 
       {
@@ -138,13 +138,7 @@
         "start_year": "2000", 
         "total_projects": 1955, 
         "end_year": "2013", 
-        "scores": {
-          "date_coverage": 18.47, 
-          "geographic_coverage": 99.85, 
-          "geographic_precision": 50.62, 
-          "compare_financials": 0.0, 
-          "sector_detail": 96.06
-        }, 
+        "geocoded_commitments": 118890896129.10208, 
         "geocoded_projects": 1952, 
         "runs": 1, 
         "last_run": "2016-04-19T14:29:59.022457", 
@@ -152,7 +146,13 @@
         "geocoded_disbursements": 0, 
         "total_disbursements": 0, 
         "total_commitments": 135395360724.8334, 
-        "geocoded_commitments": 118890896129.10208, 
+        "scores": {
+          "date_coverage": 18.47, 
+          "geographic_coverage": 99.85, 
+          "geographic_precision": 50.62, 
+          "compare_financials": 0.0, 
+          "sector_detail": 96.06
+        }, 
         "dataset_title": "China"
       }, 
       {
@@ -160,14 +160,6 @@
         "start_year": "1998", 
         "total_projects": 6842, 
         "end_year": "2014", 
-        "geocoded_commitments": 4376568942.112488, 
-        "geocoded_projects": 256, 
-        "runs": 1, 
-        "last_run": "2016-04-19T14:30:07.409775", 
-        "locations": 1750, 
-        "geocoded_disbursements": 0, 
-        "total_disbursements": 0, 
-        "total_commitments": 47305553373.90792, 
         "scores": {
           "date_coverage": 26.06, 
           "geographic_coverage": 3.74, 
@@ -175,6 +167,14 @@
           "compare_financials": 0.0, 
           "sector_detail": 96.32
         }, 
+        "geocoded_projects": 256, 
+        "runs": 1, 
+        "last_run": "2016-04-19T14:30:07.409775", 
+        "locations": 1750, 
+        "geocoded_disbursements": 0, 
+        "total_disbursements": 0, 
+        "total_commitments": 47305553373.90792, 
+        "geocoded_commitments": 4376568942.112488, 
         "dataset_title": "DRC-AIMS"
       }, 
       {
@@ -182,13 +182,7 @@
         "start_year": "2000", 
         "total_projects": 1217, 
         "end_year": "2014", 
-        "scores": {
-          "date_coverage": 100.0, 
-          "geographic_coverage": 99.42, 
-          "geographic_precision": 32.81, 
-          "compare_financials": 0.21, 
-          "sector_detail": 98.03
-        }, 
+        "geocoded_commitments": 2312320374, 
         "geocoded_projects": 1210, 
         "runs": 1, 
         "last_run": "2016-04-19T14:31:40.803430", 
@@ -196,14 +190,28 @@
         "geocoded_disbursements": 1496456898, 
         "total_disbursements": 1538984962, 
         "total_commitments": 2366300654, 
-        "geocoded_commitments": 2312320374, 
+        "scores": {
+          "date_coverage": 100.0, 
+          "geographic_coverage": 99.42, 
+          "geographic_precision": 32.81, 
+          "compare_financials": 0.21, 
+          "sector_detail": 98.03
+        }, 
         "dataset_title": "SomaliaAIMS"
       }, 
       {
         "donors": 46, 
         "start_year": "1992", 
+        "runs": 1, 
+        "total_projects": 880, 
+        "end_year": "2014", 
         "geocoded_commitments": 3340138954, 
+        "geocoded_projects": 856, 
         "locations": 2314, 
+        "last_run": "2016-04-19T14:41:08.613103", 
+        "geocoded_disbursements": 2785175978, 
+        "total_disbursements": 2863384869, 
+        "total_commitments": 3416649276, 
         "scores": {
           "date_coverage": 100.0, 
           "geographic_coverage": 97.27, 
@@ -211,15 +219,7 @@
           "compare_financials": 0.01, 
           "sector_detail": 92.27
         }, 
-        "dataset_title": "SierraLeoneAIMS", 
-        "total_projects": 880, 
-        "runs": 1, 
-        "end_year": "2014", 
-        "geocoded_projects": 856, 
-        "last_run": "2016-04-19T14:41:08.613103", 
-        "geocoded_disbursements": 2785175978, 
-        "total_disbursements": 2863384869, 
-        "total_commitments": 3416649276
+        "dataset_title": "SierraLeoneAIMS"
       }
     ]
   }
