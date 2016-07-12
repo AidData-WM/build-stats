@@ -19,7 +19,7 @@ This repo houses build-stats for dataset creation
 | date_coverage | percentage of projects that have start date |
 | geographic_coverage | the percentage of projects that are geocoded |
 | geographic_precision | percentage of all locations that have a subnational locations |
-| compare_financials | compares the sum of commitments from the projects table to the sum of commitments from the AidData Core Database |
+| compare_financials | compares the sum of commitments from the projects table to the sum of commitments from the AidData Core Database (unstable, do not use) |
 | sector_detail | percentage of projects that DO NOT have ambiguous sector information (codes of 430, 43010, 988, 99810) |
 
 
